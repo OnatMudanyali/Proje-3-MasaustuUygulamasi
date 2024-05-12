@@ -1,1 +1,1 @@
-# Proje-3-MasaustuUygulamasi
+# 3. Proje Masaüstü Uygulaması
