@@ -18,11 +18,12 @@ Masaüstü uygulamamıza girmek için şifreyi gireriz ardından diğer uygulama
 
 
 
-2.LİSTELEME
+2.FONKSİYONLAR
 
-<img width="295" alt="2 LİSTELEME" src="https://github.com/OnatMudanyali/Proje-2-Rehber-Uygulamas-/assets/161920999/886006ee-84b7-4287-9722-2a8d954a884a">
+<img width="295" alt="2 LİSTELEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/ca8eaae4-f92a-461b-abd7-ce93afabf04a">
 
-Rehber Uygulamamızın Kişi Ekleme ekranından kişinin adını ve numarasını girerek rehbere kaydettikten sonra kişileri rehberde listeler.
+Uygulamamızda giriş yaptıktan sonra istelilen fonksiyon seçilir.
+
 
 
 <h1></h1>
@@ -30,11 +31,11 @@ Rehber Uygulamamızın Kişi Ekleme ekranından kişinin adını ve numarasını
 
 
 
-3.ARAMA
+3.ÇEVİRİ UYGULAMASI
 
-<img width="295" alt="3 ARAMA" src="https://github.com/OnatMudanyali/Proje-2-Rehber-Uygulamas-/assets/161920999/3ae04f2f-cf29-4e7e-b798-208f7c425fe2">
+<img width="295" alt="2 LİSTELEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/fb036a57-9636-4ae9-bc78-81e451e22639">
 
-Rehber Uygulamamızın Kişi Ekleme ekranından kişinin adını ve numarasını girerek rehbere kaydettikten sonra kişileri rehberde listeledi. Ve bu arama kısmında kaydedilen kişilerden seçilen kişiyi seçerek arar.
+Masaüstü uygulamamızda giriş yaptıktan sonra çeviri uygulaması sayesinde bazı çevirileri yapabiliriz.
 
 
 <h1></h1>
@@ -42,24 +43,12 @@ Rehber Uygulamamızın Kişi Ekleme ekranından kişinin adını ve numarasını
 
 
 
-4.DÜZELTME
+4.REHBER UYGULAMASI
 
-<img width="295" alt="4 DÜZELTME" src="https://github.com/OnatMudanyali/Proje-2-Rehber-Uygulamas-/assets/161920999/cc9aefd1-dbb9-4ce2-9789-6a6521fef558">
+<img width="295" alt="4 DÜZELTME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/e4a84086-a76f-4cee-88f9-e21dbe0f71cc">
 
 Rehber Uygulamamızda eklenen kişilerin adını veya numarasını değiştirmek istenilirse bu uygulama seçilir.
 
-
-<h1></h1>
-
-
-
-
-
-5. SİLME
-
-<img width="295" alt="5.SİLME" src="https://github.com/OnatMudanyali/Proje-2-Rehber-Uygulamas-/assets/161920999/63cb2d68-6bf3-4cef-8375-4b33190576a1">
-
-Rehber Uygulamamızda eklenen kişilerin silinmesi istenilirse bu uygulama seçilir.
 
 
 <h1></h1>
