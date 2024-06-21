@@ -3,6 +3,7 @@
 # Proje-3-MasaustuUygulamasi-
 
 PROJE 3 MASAÜSTÜ UYGULAMASI
+EXE UYGULAMASI:https://drive.google.com/file/d/1l3efBNFMYnmWkXOVvNvhgBIkZlXwig4b/view?usp=sharing
 
 
 
