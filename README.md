@@ -69,7 +69,7 @@ Eklenilen kişileri ve numaralarını bu kısımdan silebiliriz.
 
 
 
-6.DÜZELELT
+6.DÜZELT
 
 <img width="295" alt="6 Düzelt" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/4e43b5d0-4658-4fe9-955f-d78de09161b0">
 
