@@ -6,9 +6,9 @@ PROJE 3 MASAÜSTÜ UYGULAMASI
 
 
 
-1.GİRİŞ SAYFASI(TÜRKÇE-İNGİLİZCE)
+1.GİRİŞ SAYFASI
 
-<img width="295" alt="1 KİŞİ EKLEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/5023aa43-e710-4f8f-9c42-f6f6b370bffa">
+<img width="295" alt="1 KİŞİ EKLEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/38ea52d3-2f83-492a-8dd7-807e23020e0d">
 
 Masaüstü uygulamamıza girmek için şifreyi gireriz ardından diğer uygulamalara girer.Bu menüde ayrıca dil seçeneği de vardır.
 
