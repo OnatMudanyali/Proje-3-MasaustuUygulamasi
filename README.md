@@ -62,7 +62,7 @@ Ekle kısmından istenilen kişileri ekledikten sonra bu kısımdan numaraları 
 
 5.SİL
 
-<img width="295" alt="5 Sil" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/2fccbd84-8ffe-40af-9656-aad4768a75af">
+<img width="295" alt="5 Sil" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/3aee961c-c017-49c1-9353-2056f5c4d49e">
 
 Eklenilen kişileri ve numaralarını bu kısımdan silebiliriz.
 
@@ -76,7 +76,7 @@ Eklenilen kişileri ve numaralarını bu kısımdan silebiliriz.
 
 6.DÜZELT
 
-<img width="295" alt="6 Düzelt" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/4e43b5d0-4658-4fe9-955f-d78de09161b0">
+<img width="295" alt="6 Düzelt" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/473b48bc-42dd-410b-a35a-4eba77b79262">
 
 Bu kısımda eklenilen kişilerin numaralarını veya isimlerini değiştirerek yeni bir rehber yapabiliriz.
 
