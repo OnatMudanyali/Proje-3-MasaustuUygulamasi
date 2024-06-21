@@ -8,9 +8,20 @@ PROJE 3 MASAÜSTÜ UYGULAMASI
 
 1.GİRİŞ SAYFASI
 
-<img width="295" alt="1 KİŞİ EKLEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/38ea52d3-2f83-492a-8dd7-807e23020e0d">
+<img width="295" alt="1 Giriş Sayfası" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/38ea52d3-2f83-492a-8dd7-807e23020e0d">
 
-Masaüstü uygulamamıza girmek için şifreyi gireriz ardından diğer uygulamalara girer.Bu menüde ayrıca dil seçeneği de vardır.
+Masaüstü uygulamamıza girmek için kullanıcı adı kısmına "admin" şifre kısmına da "123" yazarak uygulamamıza giriş yapabiliriz.
+
+
+<h1></h1>
+
+
+
+2.UYGULAMALAR
+
+<img width="295" alt="2 LİSTELEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/cbe7352e-f3c0-4809-9b6b-1dc6a7f5f82a">
+
+Uygulamamızda giriş yaptıktan sonra istenilen fonksiyon seçilir.
 
 
 
@@ -18,24 +29,12 @@ Masaüstü uygulamamıza girmek için şifreyi gireriz ardından diğer uygulama
 
 
 
-2.FONKSİYONLAR
 
-<img width="295" alt="2 LİSTELEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/ca8eaae4-f92a-461b-abd7-ce93afabf04a">
+3.EKLE
 
-Uygulamamızda giriş yaptıktan sonra istelilen fonksiyon seçilir.
+<img width="295" alt="2 LİSTELEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/ea43df4b-a071-435a-aa6f-e8d998db0367">
 
-
-
-<h1></h1>
-
-
-
-
-3.ÇEVİRİ UYGULAMASI
-
-<img width="295" alt="2 LİSTELEME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/fb036a57-9636-4ae9-bc78-81e451e22639">
-
-Masaüstü uygulamamızda giriş yaptıktan sonra çeviri uygulaması sayesinde bazı çevirileri yapabiliriz.
+Masaüstü uygulamamızda giriş yaptıktan sonra ekle kısmında İsim-Soyisim ve telefon numarasını ekleyebiliriz.
 
 
 <h1></h1>
@@ -43,11 +42,11 @@ Masaüstü uygulamamızda giriş yaptıktan sonra çeviri uygulaması sayesinde 
 
 
 
-4.REHBER UYGULAMASI
+4.LİSTELE
 
 <img width="295" alt="4 DÜZELTME" src="https://github.com/OnatMudanyali/Proje-3-MasaustuUygulamasi/assets/161920999/e4a84086-a76f-4cee-88f9-e21dbe0f71cc">
 
-Rehber Uygulamamızda eklenen kişilerin adını veya numarasını değiştirmek istenilirse bu uygulama seçilir.
+Ekle kısmından istenilen kişileri ekledikten sonra bu kısımdan numaraları ve kişileri görüntüleyebiliriz.
 
 
 
