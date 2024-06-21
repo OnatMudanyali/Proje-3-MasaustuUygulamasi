@@ -6,7 +6,7 @@ PROJE 3 MASAÜSTÜ UYGULAMASI
 
 
 EXE UYGULAMASI:https://drive.google.com/file/d/1l3efBNFMYnmWkXOVvNvhgBIkZlXwig4b/view?usp=sharing
-
+YOUTUBE VIDEO LİNKİ:https://www.youtube.com/watch?v=zjLVMC6mNZo&t=52s
 
 
 1.GİRİŞ SAYFASI
